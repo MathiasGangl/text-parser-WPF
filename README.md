@@ -8,3 +8,5 @@ Visual Studio will then open both projects in the same Solution Explorer. Otherw
 
 A pre-compiled version as .exe file can be found [here](https://github.com/MathiasGangl/text-parser-WPF/tree/main/Executeable).
 
+
+![Screenshot of the Text Parser in action.](https://github.com/MathiasGangl/text-parser-WPF/blob/main/Figures/screenshot.jpg)
