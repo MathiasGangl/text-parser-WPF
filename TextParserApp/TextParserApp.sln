@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextParserApp", "TextParserApp.csproj", "{DE5A7AAE-705E-4E7E-B61E-99A5A885FC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextParsingLibrary", "..\TextParsingLibrary\TextParsingLibrary.csproj", "{28210C9E-77AF-4ED8-9FBF-FB55FB973C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5A7AAE-705E-4E7E-B61E-99A5A885FC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5A7AAE-705E-4E7E-B61E-99A5A885FC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5A7AAE-705E-4E7E-B61E-99A5A885FC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5A7AAE-705E-4E7E-B61E-99A5A885FC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28210C9E-77AF-4ED8-9FBF-FB55FB973C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28210C9E-77AF-4ED8-9FBF-FB55FB973C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28210C9E-77AF-4ED8-9FBF-FB55FB973C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28210C9E-77AF-4ED8-9FBF-FB55FB973C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA380A6-6990-4D48-B7AE-A4849CC1AD48}
+	EndGlobalSection
+EndGlobal
