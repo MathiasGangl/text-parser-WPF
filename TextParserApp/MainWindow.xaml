@@ -30,7 +30,7 @@
         <DataGrid x:Name="DataGridWordFrequency" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2"  ItemsSource="{Binding Path=WordFrequency}" VerticalAlignment="Stretch" Margin="10,10,0,10" AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Word" Binding="{Binding Key}" />
-                <DataGridTextColumn Header="Freqeuncy" Binding="{Binding Value}" />
+                <DataGridTextColumn Header="Frequency" Binding="{Binding Value}" />
             </DataGrid.Columns>
         </DataGrid>
 
